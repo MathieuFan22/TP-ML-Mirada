@@ -2,7 +2,7 @@
 
 ## A - Clustering
   ```
-  Auteur : HARIMALALA Mendrika Heninstsoa IGGLIA 5 / N° 06
+  Auteur : HARIMALALA Mendrika Henintsoa IGGLIA 5 / N° 06
   ```
 ## B - Régression
   ```
